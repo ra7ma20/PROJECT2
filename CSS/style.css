@@ -242,6 +242,9 @@ section.page1 .content img {
 
 }
 /* page2 styling ----------------------------------------------------------------------------------------------------------------------------------*/
+.brands{
+    margin-left: 20px;
+}
 .brands-items{
     display: grid;
     grid-template-columns: auto auto auto auto;
@@ -405,6 +408,9 @@ section.page1 .content img {
     transform: translateY(0);
 }
 /* PRODUCTS.................................................................................................. */
+.products{
+    margin-left: 30px;
+}
 .list-product{
     display: flex;
     justify-content: center;
